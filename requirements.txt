@@ -1,0 +1,5 @@
+Flask==1.1.1
+Flask-MonitoringDashboard==3.0.6
+Flask-Cors==3.0.8
+pandas==0.25.3
+
